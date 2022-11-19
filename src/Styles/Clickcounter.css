@@ -1,0 +1,66 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  background-color: aqua;
+}
+h1{
+  font-weight: 700;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+  color: red;
+}
+
+h2{
+  text-align: center;
+  color:red;
+  font-size: 30px;
+}
+.main_div{
+  background-color: blue;
+  border-color: aqua;
+  border-radius: 20px;
+  box-shadow: 0 10px 15px red;
+  width: 500px;
+  height: 350px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  padding: 5px;
+}
+.btn_div{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+button{
+  padding: 15px;
+  width: 30%;
+  border-radius: 10px;
+  border-color: blue;
+  color: red;
+  box-shadow:  0 10px 15px red;
+  font-size: 25px;
+  font-weight: 800;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  cursor: pointer;
+}
+button:hover{
+  background-color: aqua;
+}
+
+
+
+
+
+/* Clickcounter 2 */
+ClickCounter2{
+    padding: 6px;
+}
+.counter_btn{
+  margin-left: 35%;
+  margin-top: 30px;
+}
+
