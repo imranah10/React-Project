@@ -12,3 +12,11 @@
     border-radius: 10px;
     box-shadow:  0 10px 15px red;
 }
+/* clock media/responsive */
+@media (max-width:900px){
+    #clock{
+        width: 50%;
+        height: 50px;
+        font-size: 25px;
+    }
+}

@@ -1,9 +1,11 @@
 .Home p{
+    color: white;
     font-size: 20px;
     font-weight: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.Home h1,p{
+.Home h2,p{
     text-align: center;
 }
+
 
