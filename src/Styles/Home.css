@@ -8,4 +8,13 @@
     text-align: center;
 }
 
+/* home media/responsive */
+/* @media(max-width:900px){
+    .Home h2{
+        font-size: 22px;
+    }
+    .Home p{
+        font-size: 25px;
+    }
+} */
 

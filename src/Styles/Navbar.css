@@ -32,6 +32,9 @@ nav{
     
   
 }
+.navbar ul li:hover{
+    background-color:rgb(132, 132, 211) ;
+}
 
 
 /* Nav-hidden /hamburger*/
